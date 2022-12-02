@@ -1,5 +1,5 @@
-## Day 2
-
+## Day 2 - Short tour
+---
 #### What we will be doing?
 
 - Jarvis
