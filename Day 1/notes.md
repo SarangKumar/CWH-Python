@@ -36,15 +36,17 @@ After downloading run `python --version` command and it should give you the vers
 
 Full form **read–eval–print loop**
 
-*how to run it*
+To run python REPL, run the following command
 
-Type following code on cmd
->python
+```bash
+python
+```
 
-*how to exit it*
+To exit python REPL, run the following command
 
-Type following code on cmd
->exit()
+```bash
+exit()
+```
 
 ---
 

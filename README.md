@@ -6,7 +6,7 @@
 #### Days :sunglasses:
 
 
-| 1^st^ dekade | 2^nd^ dekade | 3^rd^ dekade | 4^th^ dekade | 5^th^ dekade | 6^th^ dekade | 7^th^ dekade | 8^th^ dekade | 9^th^ dekade | 10^th^ dekade |  
+| 1<sup>st</sup> Dekade | 2<sup>nd</sup> Dekade | 3<sup>rd</sup> Dekade | 4<sup>th</sup> Dekade | 5<sup>th</sup> Dekade | 6<sup>th</sup> Dekade | 7<sup>th</sup> Dekade | 8<sup>th</sup> Dekade | 9<sup>th</sup> Dekade | 10<sup>th</sup> Dekade |  
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  
 |<input type='checkbox' checked/> [Day 1](/Day%201/notes.md) |<input type='checkbox'/> Day 11 |<input type='checkbox'/> Day 21 |<input type='checkbox'/> Day 31 |<input type='checkbox'/> Day 41|<input type='checkbox'/> Day 51 |<input type='checkbox'/> Day 61 |<input type='checkbox'/> Day 71 |<input type='checkbox'/> Day 81 |<input type='checkbox'/> Day 91 |
 |<input type='checkbox' checked/> [Day 2](/Day%202/notes.md) |<input type='checkbox'/> Day 12 |<input type='checkbox'/> Day 22 |<input type='checkbox'/> Day 32 |<input type='checkbox'/> Day 42|<input type='checkbox'/> Day 52 |<input type='checkbox'/> Day 62 |<input type='checkbox'/> Day 72 |<input type='checkbox'/> Day 82 |<input type='checkbox'/> Day 92 |
