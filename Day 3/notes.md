@@ -63,4 +63,6 @@ from modulename import functionname1, functionname2
 
 ---
 
-*Read more about python modules [here](https://docs.python.org/3/tutorial/modules.html)*
+##### References
+- [CWH Python 100 days challenge - Day 3](https://youtu.be/xwKO_y2gHxQ?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
+- [More about Modules](https://docs.python.org/3/tutorial/modules.html)

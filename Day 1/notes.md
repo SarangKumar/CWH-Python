@@ -45,3 +45,8 @@ Type following code on cmd
 
 Type following code on cmd
 >exit()
+
+---
+
+##### References
+- [CWH Python 100 days challenge - Day 1](https://youtu.be/7wnove7K-ZQ?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
