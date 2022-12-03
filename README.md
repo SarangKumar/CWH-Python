@@ -1,9 +1,9 @@
-## I accept the 100 days challenge :smiley:
+# I accept the 100 days challenge :smiley:
 
 [:snake:](/assets/images/python-logo.png)
 
 
-#### Days :sunglasses:
+## Days :sunglasses:
 
 
 | 1<sup>st</sup> Dekade | 2<sup>nd</sup> Dekade | 3<sup>rd</sup> Dekade | 4<sup>th</sup> Dekade | 5<sup>th</sup> Dekade | 6<sup>th</sup> Dekade | 7<sup>th</sup> Dekade | 8<sup>th</sup> Dekade | 9<sup>th</sup> Dekade | 10<sup>th</sup> Dekade |  
@@ -18,6 +18,10 @@
 |<input type='checkbox'/> Day 8 |<input type='checkbox'/> Day 18 |<input type='checkbox'/> Day 28 |<input type='checkbox'/> Day 38 |<input type='checkbox'/> Day 48|<input type='checkbox'/> Day 58 |<input type='checkbox'/> Day 68 |<input type='checkbox'/> Day 78 |<input type='checkbox'/> Day 88 |<input type='checkbox'/> Day 98 |
 |<input type='checkbox'/> Day 9 |<input type='checkbox'/> Day 19 |<input type='checkbox'/> Day 29 |<input type='checkbox'/> Day 39 |<input type='checkbox'/> Day 49|<input type='checkbox'/> Day 59 |<input type='checkbox'/> Day 69 |<input type='checkbox'/> Day 79 |<input type='checkbox'/> Day 89 |<input type='checkbox'/> Day 99 |
 |<input type='checkbox'/> Day 10|<input type='checkbox'/> Day 20 |<input type='checkbox'/> Day 30 |<input type='checkbox'/> Day 40 |<input type='checkbox'/> Day 50|<input type='checkbox'/> Day 60 |<input type='checkbox'/> Day 70 |<input type='checkbox'/> Day 80 |<input type='checkbox'/> Day 90 |<input type='checkbox'/> Day 100 |
+
+---
+## Repo Contributors ❤️
+  <img src = "https://contrib.rocks/image?repo=SarangKumar/CWH-Python"/>
 
 ---
 
