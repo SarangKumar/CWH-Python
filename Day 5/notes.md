@@ -79,8 +79,6 @@ print(object(s), [sep=seperator, end=end, file=file, flush=flush])
 |file|<ul><li>Optional</li><li>An object with a write method</li><li>Default calue is `sys.stdout`</li></ul>|
 |flush|<ul><li>Optional</li><li>Will be discussed later</li></ul>|
 
-
-
 ---
 ##### References
 - [CWH Python 100 days challenge - Day 5](https://youtu.be/qxPMmW93eDs?list=TLPQMDIxMjIwMjIyZJARBd2Aqg)
