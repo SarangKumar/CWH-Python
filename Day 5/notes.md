@@ -20,7 +20,7 @@ We may also use triple single quotes for the same
 """
 ```
 
-_Tips_
+**Tips**
 In vs code you may use the shortcut `Ctrl+/` while to comment the selected line of code: only single line comments will be used
 This can also be used to undo the single line comments
 
@@ -33,17 +33,11 @@ This can also be used to undo the single line comments
 
 **Some escape sequence in python**
 
-| **Code** |   **Result**    |
-| :------: | :-------------: |
-|    `\'`  |  Single Quote   |
-|    `\\`  |    Backslash    |
-|    `\n`  |    New Line     |
-|    `\r`  | Carriage Return |
-|    `\t`  |       Tab       |
-|    `\b`  |    Backspace    |
-|    `\f`  |    Form Feed    |
-|   `\ooo` |   Octal Value   |
-|   `\xhh` |    Hex value    |
+| **Code** |   **Result**    | **Code** |   **Result**    | **Code** |   **Result**    |
+| :------: | :-------------: | :------: | :-------------: | :------: | :-------------: |
+|    `\'`  |  Single Quote   |    `\r`  | Carriage Return |    `\f`  |    Form Feed    |
+|    `\\`  |    Backslash    |    `\t`  |       Tab       |   `\ooo` |   Octal Value   |
+|    `\n`  |    New Line     |    `\b`  |    Backspace    |   `\xhh` |    Hex value    |
 
 **Syntax**
 
@@ -65,7 +59,7 @@ print("It\"s an apple") #No error
 #### More about print
 
 - It is one of the built in functions in python
-- What ever writtin in the print function will be displayed in the cmd.
+- What ever write in the print function will be displayed in the cmd.
 
 **Syntax**
 
