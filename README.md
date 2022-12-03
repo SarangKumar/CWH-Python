@@ -1,20 +1,26 @@
-## I accept the 100 days challenge
+## I accept the 100 days challenge :smiley:
 
-![Python logo]('/assets/images/python-logo.png')
+[Python logo]('/assets/images/python-logo.png')
 
 
-#### Days
+#### Days :sunglasses:
 
 
 | col 1 | col 2 | col 3 | col 4 | col 5 | col 6 | col 7 | col 8 | col 9 | col 10 |  
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  
-| - [x] Day 1 | - [ ] Day 11 | - [ ] Day 21 | - [ ] Day 31 | - [ ] Day 41| - [ ] Day 51 | - [ ] Day 61 | - [ ] Day 71 | - [ ] Day 81 | - [ ] Day 91 |
-| - [x] Day 2 | - [ ] Day 12 | - [ ] Day 22 | - [ ] Day 32 | - [ ] Day 42| - [ ] Day 52 | - [ ] Day 62 | - [ ] Day 72 | - [ ] Day 82 | - [ ] Day 92 |
-| - [x] Day 3 | - [ ] Day 13 | - [ ] Day 23 | - [ ] Day 33 | - [ ] Day 43| - [ ] Day 53 | - [ ] Day 63 | - [ ] Day 73 | - [ ] Day 83 | - [ ] Day 93 |
-| - [x] Day 4 | - [ ] Day 14 | - [ ] Day 24 | - [ ] Day 34 | - [ ] Day 44| - [ ] Day 54 | - [ ] Day 64 | - [ ] Day 74 | - [ ] Day 84 | - [ ] Day 94 |
-| - [x] Day 5 | - [ ] Day 15 | - [ ] Day 25 | - [ ] Day 35 | - [ ] Day 45| - [ ] Day 55 | - [ ] Day 65 | - [ ] Day 75 | - [ ] Day 85 | - [ ] Day 95 |
-| - [ ] Day 6 | - [ ] Day 16 | - [ ] Day 26 | - [ ] Day 36 | - [ ] Day 46| - [ ] Day 56 | - [ ] Day 66 | - [ ] Day 76 | - [ ] Day 86 | - [ ] Day 96 |
-| - [ ] Day 7 | - [ ] Day 17 | - [ ] Day 27 | - [ ] Day 37 | - [ ] Day 47| - [ ] Day 57 | - [ ] Day 67 | - [ ] Day 77 | - [ ] Day 87 | - [ ] Day 97 |
-| - [ ] Day 8 | - [ ] Day 18 | - [ ] Day 28 | - [ ] Day 38 | - [ ] Day 48| - [ ] Day 58 | - [ ] Day 68 | - [ ] Day 78 | - [ ] Day 88 | - [ ] Day 98 |
-| - [ ] Day 9 | - [ ] Day 19 | - [ ] Day 29 | - [ ] Day 39 | - [ ] Day 49| - [ ] Day 59 | - [ ] Day 69 | - [ ] Day 79 | - [ ] Day 89 | - [ ] Day 99 |
-| - [ ] Day 10| - [ ] Day 20 | - [ ] Day 30 | - [ ] Day 40 | - [ ] Day 50| - [ ] Day 60 | - [ ] Day 70 | - [ ] Day 80 | - [ ] Day 90 | - [ ] Day 100 |
+|<input type='checkbox' checked/> Day 1 |<input type='checkbox'/> Day 11 |<input type='checkbox'/> Day 21 |<input type='checkbox'/> Day 31 |<input type='checkbox'/> Day 41|<input type='checkbox'/> Day 51 |<input type='checkbox'/> Day 61 |<input type='checkbox'/> Day 71 |<input type='checkbox'/> Day 81 |<input type='checkbox'/> Day 91 |
+|<input type='checkbox' checked/> Day 2 |<input type='checkbox'/> Day 12 |<input type='checkbox'/> Day 22 |<input type='checkbox'/> Day 32 |<input type='checkbox'/> Day 42|<input type='checkbox'/> Day 52 |<input type='checkbox'/> Day 62 |<input type='checkbox'/> Day 72 |<input type='checkbox'/> Day 82 |<input type='checkbox'/> Day 92 |
+|<input type='checkbox' checked/> Day 3 |<input type='checkbox'/> Day 13 |<input type='checkbox'/> Day 23 |<input type='checkbox'/> Day 33 |<input type='checkbox'/> Day 43|<input type='checkbox'/> Day 53 |<input type='checkbox'/> Day 63 |<input type='checkbox'/> Day 73 |<input type='checkbox'/> Day 83 |<input type='checkbox'/> Day 93 |
+|<input type='checkbox' checked/> Day 4 |<input type='checkbox'/> Day 14 |<input type='checkbox'/> Day 24 |<input type='checkbox'/> Day 34 |<input type='checkbox'/> Day 44|<input type='checkbox'/> Day 54 |<input type='checkbox'/> Day 64 |<input type='checkbox'/> Day 74 |<input type='checkbox'/> Day 84 |<input type='checkbox'/> Day 94 |
+|<input type='checkbox' checked/> Day 5 |<input type='checkbox'/> Day 15 |<input type='checkbox'/> Day 25 |<input type='checkbox'/> Day 35 |<input type='checkbox'/> Day 45|<input type='checkbox'/> Day 55 |<input type='checkbox'/> Day 65 |<input type='checkbox'/> Day 75 |<input type='checkbox'/> Day 85 |<input type='checkbox'/> Day 95 |
+|<input type='checkbox'/> Day 6 |<input type='checkbox'/> Day 16 |<input type='checkbox'/> Day 26 |<input type='checkbox'/> Day 36 |<input type='checkbox'/> Day 46|<input type='checkbox'/> Day 56 |<input type='checkbox'/> Day 66 |<input type='checkbox'/> Day 76 |<input type='checkbox'/> Day 86 |<input type='checkbox'/> Day 96 |
+|<input type='checkbox'/> Day 7 |<input type='checkbox'/> Day 17 |<input type='checkbox'/> Day 27 |<input type='checkbox'/> Day 37 |<input type='checkbox'/> Day 47|<input type='checkbox'/> Day 57 |<input type='checkbox'/> Day 67 |<input type='checkbox'/> Day 77 |<input type='checkbox'/> Day 87 |<input type='checkbox'/> Day 97 |
+|<input type='checkbox'/> Day 8 |<input type='checkbox'/> Day 18 |<input type='checkbox'/> Day 28 |<input type='checkbox'/> Day 38 |<input type='checkbox'/> Day 48|<input type='checkbox'/> Day 58 |<input type='checkbox'/> Day 68 |<input type='checkbox'/> Day 78 |<input type='checkbox'/> Day 88 |<input type='checkbox'/> Day 98 |
+|<input type='checkbox'/> Day 9 |<input type='checkbox'/> Day 19 |<input type='checkbox'/> Day 29 |<input type='checkbox'/> Day 39 |<input type='checkbox'/> Day 49|<input type='checkbox'/> Day 59 |<input type='checkbox'/> Day 69 |<input type='checkbox'/> Day 79 |<input type='checkbox'/> Day 89 |<input type='checkbox'/> Day 99 |
+|<input type='checkbox'/> Day 10|<input type='checkbox'/> Day 20 |<input type='checkbox'/> Day 30 |<input type='checkbox'/> Day 40 |<input type='checkbox'/> Day 50|<input type='checkbox'/> Day 60 |<input type='checkbox'/> Day 70 |<input type='checkbox'/> Day 80 |<input type='checkbox'/> Day 90 |<input type='checkbox'/> Day 100 |
+
+---
+
+### Credits
+
+- [CWH Playlist](https://youtu.be/7wnove7K-ZQ?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)

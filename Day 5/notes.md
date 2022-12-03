@@ -28,22 +28,22 @@ This can also be used to undo the single line comments
 
 #### Escape Sequence Character
 
-- They are special keywords that doesn;t represent itself but have special meaning when used in string
+- They are special keywords that doesn't represent itself but have special meaning when used in string
 - They are written inside string - inside single/double quotes
 
 **Some escape sequence in python**
 
 | **Code** |   **Result**    |
 | :------: | :-------------: |
-|    \'    |  Single Quote   |
-|    \\    |    Backslash    |
-|    \n    |    New Line     |
-|    \r    | Carriage Return |
-|    \t    |       Tab       |
-|    \b    |    Backspace    |
-|    \f    |    Form Feed    |
-|   \ooo   |   Octal Value   |
-|   \xhh   |    Hex value    |
+|    `\'`  |  Single Quote   |
+|    `\\`  |    Backslash    |
+|    `\n`  |    New Line     |
+|    `\r`  | Carriage Return |
+|    `\t`  |       Tab       |
+|    `\b`  |    Backspace    |
+|    `\f`  |    Form Feed    |
+|   `\ooo` |   Octal Value   |
+|   `\xhh` |    Hex value    |
 
 **Syntax**
 
@@ -73,13 +73,14 @@ print("It\"s an apple") #No error
 print(object(s), [sep=seperator, end=end, file=file, flush=flush])
 ```
 
-| **Key** | **Work**                                                                                                                                                                                  |
-| :-----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| object  | this is the statement that you want to print                                                                                                                                              |
-|   sep   | <ul><li>optional</li><li>this specifies that should be the seperator in the object. Which character will be between 2 words of the object.</li><li>Default value is space, `sep=" "`</li> | </ul> |
-|   end   | <ul><li>optional</li><li>This specifies what should be the end character in the print statement, i.e. what is the seperator between 2 print functions</li><li>Default value is new line character, `end='\n'`</li></ul>|
-|file|<ul><li>An object with a write method</li><li>Default calue is `sys.stdout`</li></ul>|
-|flush|<ul><li>optional</li><li>Will be discussed later</li></ul>|
+|**Key**|**Work**|
+| :-----: | :------- |
+| object  | <ul><li>this is the statement that you want to print</li></ul> |
+|   sep   | <ul><li>Optional</li><li>This specifies that should be the seperator in the object. Which character will be between 2 words of the object.</li><li>Default value is space, `sep=" "`</li></ul> |
+|   end   | <ul><li>Optional</li><li>This specifies what should be the end character in the print statement, i.e. what is the seperator between 2 print functions</li><li>Default value is new line character, `end='\n'`</li></ul>|
+|file|<ul><li>An object with a write method</li><li>Default value is `sys.stdout`</li></ul>|
+|flush|<ul><li>Optional</li><li>Will be discussed later</li></ul>|
+
 
 
 ---
