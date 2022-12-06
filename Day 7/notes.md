@@ -9,15 +9,6 @@ Expressions are a part of code that gives some useful output -->
 
 These are symbols that used to join (generally) 2 or more operands and performs some action on those.
 
-<!-- There are different types of JavaScript operators:
-
-- Arithmetic Operators
-- Assignment Operators
-- Comparison Operators
-- Logical Operators
-- Conditional Operators -->
-- Type Operators
-
 ### Arithmetic Operators
 
 | Operators | Description                  | Example |

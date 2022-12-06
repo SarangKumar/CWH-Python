@@ -7,7 +7,7 @@ print(3*2) #multiplication operator
 print(3/2) #division operator
 print(3//2) #floor division
 print(3%2) #modulus operator
-print(3**2) #power operator
+print(3**2) #exponentiation operator
 
 # ----------------------------------
 
