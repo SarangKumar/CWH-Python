@@ -83,3 +83,5 @@ for character in 'string':
 ##### References
 
 - [CWH Python 100 days challenge - Day 11](https://youtu.be/kMNFQYArrLg)
+
+- [W3 School - Python Strings](https://www.w3schools.com/python/python_strings.asp)
