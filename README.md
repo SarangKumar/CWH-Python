@@ -30,3 +30,4 @@
 - [CWH Playlist](https://youtu.be/7wnove7K-ZQ?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 - [Python Documentation](https://docs.python.org/3/)
 - [Python Tutor](https://pythontutor.com/visualize.html#mode=edit)
+- [W3 School - Python](https://www.w3schools.com/python/default.asp)
