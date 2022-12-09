@@ -14,6 +14,22 @@ It refers to cutting or trimming of a string by that what i mean is you can acce
 ```
 
 
+##### Negative indexed slicing
+
+|String|Indexing|Indexing|Indexing|Indexing|Indexing|Indexing
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|python|<table><tr><td>0</td><td>-6</td></tr><tr><td colspan='2'>p</td></tr></table>|<table><tr><td>1</td><td>-5</td></tr><tr><td colspan='2'>y</td></tr></table>|<table><tr><td>2</td><td>-4</td></tr><tr><td colspan='2'>t</td></tr></table>|<table><tr><td>3</td><td>-3</td></tr><tr><td colspan='2'>h</td></tr></table>|<table><tr><td>4</td><td>-2</td></tr><tr><td colspan='2'>o</td></tr></table>|<table><tr><td>5</td><td>-1</td></tr><tr><td colspan='2'>n</td></tr></table>|
+
+
+```python
+string = 'python'
+print(string[2:4])
+print(string[-4:-2])
+# both will give the same result
+```
+
+
+
 Using the above method you can access that part of the string that is between the start and end indices-1. *The end index is not counted.* If we want to skip particular sequence of characters then there is an optional third parameter in the function too.
 
 ### Length
@@ -57,46 +73,20 @@ print('pythonstring'[3:len('pythonstring')])
 #both will give the same result
 ```
 
-
-#### Indexing in strings
-
-- String is made up of characters. The individual unit is called character. 
-    - Example: for string "Hello" the characters are {'H', 'e', 'e', 'l', 'o'}
-
-- Now we can also access these individual strings using indexing.
-
-- Indexing starts from 0 and ends in length of string - 1
+3. Same is the case for negative indexed strings. If we don't specfy the start index then by default it will take the index of the first character & if we don't give the end index then it will take the index of the last character.
 
 ```python
-name = 'Rohan'
-print(name[0]) #'R'
-print(name[3]) #'a'
-
-# print(name[10]) #Error: string index out of range
+n = 'python'
+print(n[:-2])
+print(n[-2:])
 ```
 
-- Python also allows you to use negative indexing where the range is from -1 to - length of string. Where characters at index -1 is the last character of the string and the characters at index -length of string is the first character of the string.
+4. It we don't specify either of those values then it will take the entire string, i.e start and end indices will be taking in respective places
 
 ```python
-name = 'Rohan'
-print(name[-1]) #'n'
-print(name[-3]) #'h'
-
-# print(name[-10]) #Error: string index out of range
-```
-
-##### Negative indexed slicing
-
-|String|Indexing|Indexing|Indexing|Indexing|Indexing|Indexing
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|python|<table><tr><td>0</td><td>-6</td></tr><tr><td colspan='2'>p</td></tr></table>|<table><tr><td>1</td><td>-5</td></tr><tr><td colspan='2'>y</td></tr></table>|<table><tr><td>2</td><td>-4</td></tr><tr><td colspan='2'>t</td></tr></table>|<table><tr><td>3</td><td>-3</td></tr><tr><td colspan='2'>h</td></tr></table>|<table><tr><td>4</td><td>-2</td></tr><tr><td colspan='2'>o</td></tr></table>|<table><tr><td>5</td><td>-1</td></tr><tr><td colspan='2'>n</td></tr></table>|
-
-
-```python
-string = 'python'
-print(string[2:4])
-print(string[-4:-2])
-# both will give the same result
+var = 'some text'
+print(var[:])
+#some text
 ```
 
 ##Quick Quiz
@@ -106,6 +96,8 @@ Guess the output
 ```python
 nm = 'Harry'
 print(nm[-4:-2])
+
+print(nm[:-2]+nm[-2:])
 ```
 
 ---
