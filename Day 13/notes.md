@@ -1,4 +1,4 @@
-## Day 13 - Slicing Method
+## Day 13 - String Method
 
 ---
 
@@ -13,6 +13,6 @@ The way around it is creating a new string. After every operation in string a ne
 
 ##### References
 
-- [CWH Python 100 days challenge - Day 12](https://youtu.be/8jW7lpT8HW8?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
+- [CWH Python 100 days challenge - Day 13](https://youtu.be/0INvoK_T0cE?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 
 - [W3 School - Python Strings](https://www.w3schools.com/python/python_strings.asp)
