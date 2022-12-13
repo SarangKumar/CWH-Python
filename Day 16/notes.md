@@ -11,6 +11,7 @@ match variable_name:
     case value2:
         statement
     case value3 [if condition]:
+        statement
     case _: # for default
         statement
 ```
@@ -36,6 +37,7 @@ match command:
 ```
 
 >**Note**
+>
 >The catch here is that unlike in other programming languages where the break keyword was required if we want to prevent further execution of the cases if a match is found here there is need to put the `break`. Python automatically comes out of the match case.
 ---
 
