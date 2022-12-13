@@ -9,7 +9,7 @@ Expressions are a part of code that gives some useful output -->
 
 These are symbols that used to join (generally) 2 or more operands and performs some action on those.
 
-### Arithmetic Operators
+#### Arithmetic Operators
 
 | Operators | Description                  | Example |
 | :-------: | :--------------------------- | :------ |
@@ -32,11 +32,13 @@ print("a**b= ", a ** b)
 print("a%b= ", a % b)
 ```
 
----
-
 ## Exercise 1 - Create a Calculator
 
-##### Create a calculator capable of performing addition, subtraction, multiplication and division operations on two numbers. Your program should format the output in a readable manner!
+Create a calculator capable of performing addition, subtraction, multiplication and division operations on two numbers. Your program should format the output in a readable manner!
+
+
+#### Solution
+This includes some advace topics that are not covered in the lessons yet 😅. Sorry for that.
 
 ```python
 # a = int(input("Enter first number: "))

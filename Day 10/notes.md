@@ -1,6 +1,5 @@
 ## Day 10 - Taking user input
 
----
 
 The way to make python(or in general anything interactive) is to make it interactiv i.e. make it perfrom some task based on the provided input.
 
@@ -28,9 +27,8 @@ print(a1+a2) #ouput: a1a2 and not a1+a2
 print(int(a1)+int(a2))
 ```
 
----
 
-####More about input
+#### More about input
 
 - The type of a1 and a2 are of type string so the above function preforms concatenation.
 Another way around this problem - **typecasting**

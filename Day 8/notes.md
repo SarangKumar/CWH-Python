@@ -1,7 +1,5 @@
 ## Day 8 - Solution 1 : Calculator
 
----
-
 Solution of the exercise given on previous Day - Calculator
 
 ```python

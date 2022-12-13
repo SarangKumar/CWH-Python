@@ -1,7 +1,5 @@
 ## Day 5 - Comments, Escape Sequence, More about print
 
----
-
 #### Comments
 
 - These are lines that are overlooked by the interpreter and hence not executed.
@@ -22,9 +20,7 @@ We may also use triple single quotes for the same
 
 **Tips**
 In vs code you may use the shortcut `Ctrl+/` while to comment the selected line of code: only single line comments will be used
-This can also be used to undo the single line comments
-
----
+This can also be used to undo the single line comments.
 
 #### Escape Sequence Character
 
@@ -39,7 +35,7 @@ This can also be used to undo the single line comments
 |    `\\`  |    Backslash    |    `\t`  |       Tab       |   `\ooo` |   Octal Value   |
 |    `\n`  |    New Line     |    `\b`  |    Backspace    |   `\xhh` |    Hex value    |
 
-**Syntax**
+#### Syntax
 
 ```python
 print("Output: new\nline")
@@ -54,20 +50,18 @@ print("It\"s an apple") #No error
 # Use ' inside " " or use " inside ' '
 ```
 
----
-
 #### More about print
 
 - It is one of the built in functions in python
 - What ever write in the print function will be displayed in the cmd.
 
-**Syntax**
+#### Syntax
 
 ```python
 print(object(s), [sep=seperator, end=end, file=file, flush=flush])
 ```
 
-|**Key**|**Work**|
+| Key | Work |
 | :-----: | :------- |
 | object  | <ul><li>this is the statement that you want to print</li></ul> |
 |   sep   | <ul><li>Optional</li><li>This specifies that should be the seperator in the object. Which character will be between 2 words of the object.</li><li>Default value is space, `sep=" "`</li></ul> |

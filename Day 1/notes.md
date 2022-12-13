@@ -1,11 +1,8 @@
 ## Day 1 - Programming and Python
 
-***
-
-#### What is programming
+## What is programming
 Programming is the language for computers. It is how you communicate with your computer. 
 
----
 
 #### About python
 - Developed in 1989 Python is one of the programming languages.
@@ -14,8 +11,6 @@ Programming is the language for computers. It is how you communicate with your c
 - Intergratable.
 - Big library support, better community support.
 
-***
-
 #### Python application
 - Machine learning
 - Database
@@ -23,9 +18,7 @@ Programming is the language for computers. It is how you communicate with your c
 - Neural Networking
 - Many more...
 
-***
-
-##### Points to remember while downloading Python
+#### Points to remember while downloading Python
 
 - Download LTS verion
 - Check for add to path and pip install option
@@ -38,13 +31,13 @@ Full form **read–eval–print loop**
 
 To run python REPL, run the following command
 
-```bash
+```shell
 python
 ```
 
 To exit python REPL, run the following command
 
-```bash
+```shell
 exit()
 ```
 

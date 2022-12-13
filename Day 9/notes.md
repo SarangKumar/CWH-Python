@@ -1,7 +1,5 @@
 ## Day 9 - Typecasting
 
----
-
 Typcasting means conversion of one data type to another expectly.
 
 Python has varity of built-in functions/methods(in terms of OOP) to do this task.
@@ -33,7 +31,9 @@ print(a + b) #53
 ```
 
 >**Note**
+>
 >Keep in mind that conversion should be valid.
+
 ```python
 #Example for valid conversions
 print(int('1'+int('23')))
@@ -55,7 +55,6 @@ print(list((1, 2, 3)))
 #Implicit type casting
 print(1.2+3) # results in float type, 3->3.0
 ```
-
 
 ---
 

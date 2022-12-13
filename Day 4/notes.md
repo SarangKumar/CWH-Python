@@ -4,11 +4,12 @@
 
 - Save the file as `filename.py` (py is the extension for python files)
 - Using cmd go to the path where the script is and run the below code
-```bash
+
+```shell
 python filename.py
 ```
-or
-```bash
+*or*
+```shell
 python3 filename.py
 ```
 

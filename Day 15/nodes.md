@@ -1,6 +1,10 @@
+## Day 15 - Exercise 2
+
 ## Exercise 2 - Good Morning Sir
 
-##### Create a python program capable og greeting you with Good Morning, Good Afternoon and Good Evening. Your program should use time module to get the current hour. Here is a 
+Create a python program capable og greeting you with Good Morning, Good Afternoon and Good Evening. Your program should use time module to get the current hour.
+
+#### Solution
 
 ```python
 import time

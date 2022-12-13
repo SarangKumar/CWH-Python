@@ -1,12 +1,11 @@
 ## Day 11 - String
 
----
-
 String is one of the data types in python(or in any other languages). 
 
 They are enclosed within single quotes or double quotes
 
 Example:
+
 ```python
 a = 'Hello, world' # or "Hello, world"
 print(a) #output: 'Hello, world
@@ -47,10 +46,7 @@ print(name[-3]) #'h'
 # print(name[-10]) #Error: string index out of range
 ```
 
-
----
-
-####More about input
+#### More about input
 
 - The methods mentioned above are only used for single line strings then what about multiline strings?
 
@@ -69,6 +65,7 @@ print(a1)
 Using loops:
 
 >**Note**
+>
 >We will study about loops in future sessions
 
 ```python

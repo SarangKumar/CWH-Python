@@ -1,6 +1,5 @@
 ## Day 14 - If else conditionals
 
----
 
 Often there is requirement to generate different output that depends on some conditions. For example one may carry umbrella **if** *it's raining* `or` **if** *the weather forecast recommends so* **else** there is no need of umbrella. 
 
@@ -20,7 +19,7 @@ else:
 
 Condition in programming means some constraints that evaluates to either `True` or `False` but nothing in between.
 
-##### Working 
+#### Working 
 
 The statements that are indented in the if,elif and else block belongs to the corresponding block. In python indentation is used to tell that the code belongs to this block unlike most programming languages where parenthesis is used.
 If the condition1 in the above code evaluates to true only then the statement corresponding to that block is executed and execution flow comes out of the if else conditions.If the condition1 evaluates to false then condition2 is checked and it's block is executed only when that condition is true. If no condition evaluates to true then else block is executed. The execution jumps from `if` to `elif` to `else` but only one block of statements is executed rest are ignored.
@@ -44,7 +43,7 @@ if age>=18:
 else:
     print('You cannot get DL.')
 ```
->See main.ipynb file to see more example codes
+>Refer main.ipynb file to see more example codes
 
 #### Operators in if-else
 
@@ -57,6 +56,7 @@ If our condition are depends upon 2 or more expression then those sub conditions
     - `and` is used when both the expressions are true. It will check the second expression only if the first expression is true else it won't check the second expression
     - `or` is used when we want either of the expressions to be true to give the final output as true. It will check the second expession only if the first expression is false else it won't check the second expression
     - `not` is used to negate the 
+
 ---
 
 ##### References

@@ -6,14 +6,14 @@
 
 Variables are like containers that stores data in them. Now the stores data they can be accessed using these variables. These variables are stored in RAM.
 
-##### Rules for Python variables:
+#### Rules for Python variables:
 
 - A variable name must start with a letter or the underscore character
 - A variable name cannot start with a number
 - A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and \_ )
 - Variable names are case-sensitive
 
-**Syntax**
+#### Syntax
 
 ```python
 a = 10
@@ -27,7 +27,7 @@ d = true
 print(d)
 ```
 
-##### More to know
+#### More to know
 
 ```python
 a1 = "first_name"
@@ -47,7 +47,6 @@ a = 100
 print(type(a))
 ```
 
----
 
 #### Data Types
 
@@ -70,7 +69,6 @@ Python has some built in data types
 >*You do not need to rememeber the list*
 
 *We will be exploring all of these afterwards*
-
 
 ---
 
