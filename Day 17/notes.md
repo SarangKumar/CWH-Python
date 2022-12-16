@@ -56,4 +56,4 @@ More about range function:
 
 #### References
 
-- [CWH Python 100 days challenge - Day 10](https://youtu.be/fIYVzKp0q5w)
+- [CWH Python 100 days challenge - Day 17](https://youtu.be/fIYVzKp0q5w)

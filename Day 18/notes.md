@@ -1,4 +1,4 @@
-## Day 17 - While Loop
+## Day 18 - While Loop
 
 While loops are used when we want to do iteration but we don't know how many times do we need to do looping but that depends on some condition.
 
