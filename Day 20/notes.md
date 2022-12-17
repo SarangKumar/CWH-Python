@@ -1,4 +1,4 @@
-## Day 20 - Function
+## Day 20 - Functions
 
 As a programmer there is one saying - DRY (Don't Repeat Yourself). If you find yourself repeating a part of code then it means you are doing it the wrong way. At times there is a need to repeat code. Then what one can do is repeat the code in it's entirety or write a `function` and call it as many times in the function. 
 
@@ -27,13 +27,13 @@ def function_name(arguments):
 function_name(arguments)
 ```
 
-<detail>
-<summary><strong>Working</strong></summary>
-
+<details>
+  <summary><strong>Working</strong></summary>
+  
 In the above code `def` is a keywork that is used to tell the interpretor that a function is going to be declated. Following that is the name of the function then in the parenthesis we write the arguments(these are those values that we want to operate with in the function, like the numbers are to be added in add function) then we write the statements after colon and proper indentation.
 
 After making a function one must use it, in programming terms it is called calling a function. To call a function one should write the function name and its argument values in brackets.
-</detail>
+</details>
 
 For Example:
 
