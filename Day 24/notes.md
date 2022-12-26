@@ -21,19 +21,6 @@ Output:
 <class 'tuple'>
 ```
 
-<details>
-<summary><strong>FAQ</strong></summary>
-
-- What is ordered data type?
-
-They are those data types that can be indexed. Some examples include tuple, string, lists, ..
-
-- What is immutable data type?
-
-They are those data types whose values cannot be changed once it is initialized.
-</details>
-
-
 ---
 
 #### References
