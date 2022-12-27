@@ -77,7 +77,7 @@ Output
 Hey! I am Sarang and I am from India.
 ```
 
-Click [here](/Day%2028/notes.md) for more examples on f-strings
+Click [here](/Day%2028/main.ipynb) for more examples on f-strings
 
 ---
 
