@@ -12,7 +12,7 @@ print(fruits)
 ```
 
 
-For examples click [here](/Day%2025//main.ipynb)
+For more examples and methods click [here](/Day%2025//main.ipynb)
 
 ---
 
